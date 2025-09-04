@@ -1,0 +1,2 @@
+rootProject.name = "NeonOverlay"
+include ':app'
